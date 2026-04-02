@@ -1,0 +1,13 @@
+# Python specifics
+__pycache__/
+venv/
+*.py[cod]
+
+# Cloudloop Secrets
+certs/
+*.pem
+*.crt
+*.key
+
+# Configuration
+.env
