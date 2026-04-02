@@ -1,1 +1,6 @@
 test file to see if commits propogate correctly 
+new line to try again had error so added this to the other account
+
+- name: Mark workspace safe for git
+  run: git config --global --add safe.directory /github/workspace
+
