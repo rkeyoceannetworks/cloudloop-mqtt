@@ -11,3 +11,7 @@ certs/
 
 # Configuration
 .env
+
+#database
+*.db
+*.db
